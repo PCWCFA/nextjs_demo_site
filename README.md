@@ -1,8 +1,6 @@
 # Next.js Demo Site
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-See the full tutorial https://www.youtube.com/watch?v=mTz0GXj8NN0.
+This is a demo site as shown in the [Next.js Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0).
 
 ## Getting Started
 
